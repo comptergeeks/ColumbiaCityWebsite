@@ -1,7 +1,6 @@
 import './App.css';
 
 import Navbar from './components/Navbar.js'
-import Tech from "./Tech.js"
 
 function App() {
   return (
