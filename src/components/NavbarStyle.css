@@ -4,6 +4,9 @@
 .background {
     text-align: center;
 }
+.box {
+  color: black;
+}
 .background h1 {
     margin-top: 0;
     font-family: UnifrakturMaguntia;

@@ -1,5 +1,6 @@
 import React from 'react';
 import './NavbarStyle.css'
+import { Link } from 'react-router-dom';
 //import {Link} from "react-router-dom";
 
 
@@ -7,11 +8,13 @@ import './NavbarStyle.css'
 export default function Navbar() {
     return (
         <div className="background">
+            <Link to="/"style={{color: 'inherit', textDecoration: 'inherit'}}>
             <h1>Columbia City</h1>
+            </Link>
             <img src='./images/Vector-2.png' alt='line'></img>
             <div className="container">
                 <div className="box">
-                    Technology Use
+                <Link to="/tech" style={{color: 'inherit', textDecoration: 'inherit'}}>Technology Use</Link>
                 </div>
                 <div className="box">
                     Community and Social
