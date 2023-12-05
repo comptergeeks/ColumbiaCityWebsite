@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "babel-jest": "^24.9.0"
-  }, 
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
