@@ -36,3 +36,24 @@
   font-family: Bitter;
   font-size: 3vw;
 }
+.frame p {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.667vw;
+  font-family: Bitter;
+  width: 60vw;
+  letter-spacing: 0.067vw;
+}
+.flex-diversity{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  font-family: Bitter;
+  font-size: 1.667vw;
+  text-align: center;
+  
+}
+.child {
+  padding: 1vw;
+}
