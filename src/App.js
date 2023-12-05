@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react';
 import CountUp from 'react-countup';
 import Navbar from './components/Navbar.js'
 
