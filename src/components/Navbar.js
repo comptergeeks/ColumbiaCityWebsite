@@ -17,7 +17,7 @@ export default function Navbar() {
                 <Link to="/tech" style={{color: 'inherit', textDecoration: 'inherit'}}>Technology Use</Link>
                 </div>
                 <div className="box">
-                    Community and Social
+                <Link to="/communities" style={{color: 'inherit', textDecoration: 'inherit'}}>Community and Social</Link>
                 </div>
                 <div className="box">
                 <Link to="/parks" style={{color: 'inherit', textDecoration: 'inherit'}}>Public Parks and Green Spaces</Link>
@@ -26,8 +26,7 @@ export default function Navbar() {
                 <Link to="/business" style={{color: 'inherit', textDecoration: 'inherit'}}>Business and Industry</Link>
                 </div>
                 <div className="box">
-                <Link to="/transport" style={{color: 'inherit', textDecoration: 'inherit'}}> Transportation and Urban</Link>
-                   
+                <Link to="/transport" style={{color: 'inherit', textDecoration: 'inherit'}}> Transportation and Urban</Link>  
                 </div>
             </div>
             <img src='./images/Vector-1.png' alt='line'></img>

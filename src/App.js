@@ -45,8 +45,9 @@ function App() {
           </div>
           <h2>Neighborhood Assessment Score</h2>
           <p>We would rate our neighborhood a 5 because we consider all our topics to be assets for Columbia City. There was public transportation people could take to commute around the neighborhood, which is beneficial for the environment and for those who don’t own their own vehicles. The area was well suited for biking and walking too. The neighborhood did a nice job of maintaining their parks and green spaces to make them accessible for people to spend time together outside. There were also community centers, a public library, and other recreational facilities that allowed people to connect with each other and find access to educational resources and technology. Local businesses received support and funding as well so that they’re able to supply the neighborhood with all their needs and keep their economy running. Overall, we saw that these entities worked together to create a welcoming, accessible environment and promote unity within the community.
-  
           </p>
+          <h2>Sources</h2>
+          <iframe src="https://docs.google.com/document/d/e/2PACX-1vTamVtmWlQ16v2-yi5TxkEnwnkcbwi8Ot6Z9xYN3ihKNhRtsxxu8MN_NjtTJxbYnbxM38qV9GEiVovw/pub?embedded=true"></iframe>
         </div>
         
     </div>

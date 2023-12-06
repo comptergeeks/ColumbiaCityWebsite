@@ -8,6 +8,7 @@ import Tech from './Tech.js';
 import Business from './Business.js';
 import Transport from './Transport.js';
 import Parks from './Parks.js';
+import Communities from './Communities.js';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
@@ -21,6 +22,7 @@ root.render(
       <Route path ="/business" element={<Business/>}></Route>
       <Route path ="/transport" element={<Transport/>}></Route>
       <Route path ="/parks" element={<Parks/>}></Route>
+      <Route path ="/communities" element={<Communities/>}></Route>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
