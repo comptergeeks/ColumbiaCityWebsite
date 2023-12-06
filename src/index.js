@@ -5,6 +5,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Tech from './Tech.js';
+import Business from './Business.js';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
@@ -15,6 +16,7 @@ root.render(
       </Route>
       <Route path ="/tech" element={<Tech/>}>
       </Route>
+      <Route path ="/business" element={<Business/>}></Route>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

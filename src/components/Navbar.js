@@ -23,7 +23,7 @@ export default function Navbar() {
                     Public Parks and Green Spaces
                 </div>
                 <div className="box">
-                    Business and Industry
+                <Link to="/business" style={{color: 'inherit', textDecoration: 'inherit'}}>Business and Industry</Link>
                 </div>
                 <div className="box">
                     Transportation and Urban
