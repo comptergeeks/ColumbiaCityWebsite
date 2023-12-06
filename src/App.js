@@ -17,7 +17,6 @@ function App() {
           <h2>Background Info</h2>
           <p>Columbia City is a diverse neighborhood in Seattle, Washington with a long history. In 1891, an electric railway line was built, which ran through the area, and the surrounding land was developed into a town. After World War II, the neighborhood was in poor conditions, but public and private contributions revitalized Columbia City. Minority groups and other citizens settled in the area and helped the business district grow and thrive. The neighborhood earned the Landmark District status in 1978 and continues to preserve its historic commercial and residential buildings while making room for more public establishments and community events.</p>
           <h2>Diversity</h2>
-         
           <div className="flex-diversity">
             <div className="child">
             <DisplayCounter group="White " finalValue ="32" decimalCount ="0" />
@@ -44,6 +43,10 @@ function App() {
             <DisplayCounter group="Some other race " finalValue = "0.1" decimalCount ="1"/>
             </div>
           </div>
+          <h2>Neighborhood Assessment Score</h2>
+          <p>We would rate our neighborhood a 5 because we consider all our topics to be assets for Columbia City. There was public transportation people could take to commute around the neighborhood, which is beneficial for the environment and for those who don’t own their own vehicles. The area was well suited for biking and walking too. The neighborhood did a nice job of maintaining their parks and green spaces to make them accessible for people to spend time together outside. There were also community centers, a public library, and other recreational facilities that allowed people to connect with each other and find access to educational resources and technology. Local businesses received support and funding as well so that they’re able to supply the neighborhood with all their needs and keep their economy running. Overall, we saw that these entities worked together to create a welcoming, accessible environment and promote unity within the community.
+  
+          </p>
         </div>
         
     </div>
