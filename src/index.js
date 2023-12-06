@@ -9,10 +9,15 @@ import Business from './Business.js';
 import Transport from './Transport.js';
 import Parks from './Parks.js';
 import Communities from './Communities.js';
+import { Helmet } from 'react-helmet';
+const TITLE = 'Columbia City';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <React.StrictMode>
+      <Helmet>
+          <title>{ TITLE }</title>
+        </Helmet>
     <BrowserRouter>
       <Routes>
       <Route path="/" element={ <App />}>

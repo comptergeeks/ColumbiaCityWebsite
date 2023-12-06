@@ -5,8 +5,6 @@ const com1 = "./images/club.jpg";
 const com2 = "./images/blind.jpg";
 const com3 = "./images/cc.jpg";
 const com4 = "./images/ccYoga.jpg";
-const com5 = "./images/southEast.jpg";
-const com6 = "./images/teen.jpg";
 
 
 
