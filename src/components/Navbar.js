@@ -20,13 +20,14 @@ export default function Navbar() {
                     Community and Social
                 </div>
                 <div className="box">
-                    Public Parks and Green Spaces
+                <Link to="/parks" style={{color: 'inherit', textDecoration: 'inherit'}}>Public Parks and Green Spaces</Link>
                 </div>
                 <div className="box">
                 <Link to="/business" style={{color: 'inherit', textDecoration: 'inherit'}}>Business and Industry</Link>
                 </div>
                 <div className="box">
-                    Transportation and Urban
+                <Link to="/transport" style={{color: 'inherit', textDecoration: 'inherit'}}> Transportation and Urban</Link>
+                   
                 </div>
             </div>
             <img src='./images/Vector-1.png' alt='line'></img>

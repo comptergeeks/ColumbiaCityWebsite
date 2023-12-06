@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter');
+.tech {
+    height: 100vw;
+}
+.tech h1 {
+    font-size: 3.33vw;
+}
+.tech h2{
+    margin-top: 1vw;
+    text-align: center;
+    font-family: Bitter;
+    font-size: 3.33vw;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 0.5vw;
+}
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.body video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40vw;
+}
+.body h3 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0vw;
+    font-size: 1.5vw;
+    font-style: italic;
+    font-family: Bitter;
+    font-weight: normal;
+    margin-bottom: 0.25vw;
+}
+.body p {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.667vw;
+    font-family: Bitter;
+    width: 40vw;
+    letter-spacing: 0.067vw;
+}

@@ -57,7 +57,7 @@ function DisplayCounter(props) {
   return <CountUp
   start={0}
   end={props.finalValue}
-  duration={5}
+  duration={3.75}
   separator=""
   decimals={props.decimalCount}
   decimal="."
