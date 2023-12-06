@@ -49,8 +49,12 @@
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
-    width: 30vw;
+    flex: 1;
     gap: 1vw;
+    width: 60vw;
 }
-.image-flex {
+.image-flex img{
+    width: auto;
+    height: 20vw;
 }
+

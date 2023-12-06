@@ -10,7 +10,7 @@ function App() {
         <h1>Welcome to Columbia City</h1>
         <div className="container2">
           <ul className="imagesfr">
-            <li><img src='./images/image-3.png' alt=''/></li>
+            <li><img src='./images/map.png' alt=''/></li>
             <li><img src='./images/image-2.png' alt=''/></li>
             <li><img src='./images/image-1.png' alt=''/></li>
           </ul>
