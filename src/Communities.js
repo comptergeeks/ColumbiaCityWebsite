@@ -12,7 +12,7 @@ function Tech() {
     return (
         <div className = "tech">
             <Navbar/>
-           <h2>Public Parks and Green Spaces</h2>
+           <h2>Community and Social</h2>
            <div className="body"> 
            <ul className="imagesfr">
             <li><img src={com1} alt=''/></li>
