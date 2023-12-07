@@ -22,9 +22,8 @@ function Tech() {
             <li><img src={Park4} alt=''/></li>
           </ul>
            <h3>By: Raizel Lagunero</h3>
-           <p>Columbia City’s public parks and green spaces were conveniently accessible throughout the city. Parks were also accessible and were surrounded by recreational facilities. The Boys and Girls Club had a playground, and the public library was located in a public park. Greenery was incorporated throughout the architecture, and there were multiple public parks. 
-            Plants and trees were planted along the roads, and hills of trees lined the borders of the community, and this aspect definitely added an aesthetically pleasing quality. 
-            </p>
+           <p>Columbia City’s public parks and green spaces were conveniently accessible and integrated throughout the architecture of the city. In my background research, I found that Columbia City was at first made up of forests and marshes. Currently, there are scenic park trails and forest hiking paths for tourists and residents to walk through. One of the popular trails that came up in my background research was Seward Park. I wasn’t able to go to Seward Park when I went to Columbia City, but I was able to explore the city’s other green spaces.</p>
+           <p>I observed that green spaces were evident throughout the city and this aspect definitely added an aesthetically pleasing quality. Rows of plants and trees were planted along the roads, and hills of trees lined the borders of the community. Columbia City’s parks were located near recreational facilities such as the public library centered on a large green landscape. The public parks and green spaces are generally accessible in Columbia City and I observed it to be an asset to the population health of the community.</p>
            </div>
         </div>
     )
